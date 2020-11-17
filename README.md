@@ -1,4 +1,4 @@
 # rfid-breakout
-<img src="images/rfid-breakout1.png" height="200" width="200" />
+<img src="images/rfid-breakout1.png" />
 
 ## Arduino interfacing
