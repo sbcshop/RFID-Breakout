@@ -14,3 +14,10 @@ RFID Breakout is the latest technology in the range of SB Component products boa
 ## Raspberry interfacing
 
 <img src="images/rfid_breakout_circuit_raspberry.png" />
+
+* Enable Serial from raspi-config command or using menu as shown below (login over shell  must disabled).
+
+
+* Now run rfid_read.py from Python folder using below command.
+
+``` python3 rfid_read.py ``` 
